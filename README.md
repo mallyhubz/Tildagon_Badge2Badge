@@ -4,9 +4,9 @@ It uses the A-PL-SMT-K SATA connector
 
 Bonus Feature : Instead connect GPIO Grove accessories to it with a Grove angled connector on the TOP side, facing out.
 
-To buy one (very few available)
-
-Find Mal in Village : "IMS Code Club" around D10 OR e-mail emf2026@hubertz.net
+To buy one (very few available) find Mal in Village : "IMS Code Club" around D10 
+  OR
+e-mail emf2026@hubertz.net
 
 Erroneous JLCJLCJLCJLC text - Oh well.... 
 
