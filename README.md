@@ -7,3 +7,6 @@ Bonus Feature : Instead connect GPIO Grove accessories to it with a Grove angled
 To buy one (very few available)
 
 Find Mal in Village : "IMS Code Club" around D10 OR e-mail emf2026@hubertz.net
+
+![Badge2Badge PCBs]
+(https://github.com/mallyhubz/Tildagon_Badge2Badge/blob/main/Badge2Badge.jpg)
