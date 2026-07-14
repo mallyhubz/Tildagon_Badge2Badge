@@ -8,4 +8,6 @@ To buy one (very few available)
 
 Find Mal in Village : "IMS Code Club" around D10 OR e-mail emf2026@hubertz.net
 
+Erroneous JLCJLCJLCJLC text - Oh well.... 
+
 <img width="1062" height="800" alt="Badge2Badge" src="https://github.com/mallyhubz/Tildagon_Badge2Badge/blob/main/Badge2Badge.jpg" />
